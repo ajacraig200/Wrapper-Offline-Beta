@@ -1,5 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?> 
 <theme id="import" name="Imported Assets" cc_theme_id="import"> 
-	<char id="327068788" name="the benson apparition" cc_theme_id="family" thumbnail_url="char-default.png" copyable="Y"><tags>family,every,copy,of,wrapper,offline,is,_free,software,but,is,also,_cat:personalized</tags></char>
+<char id="327068788" name="the benson apparition" cc_theme_id="family" thumbnail_url="char-default.png" copyable="Y"> 
+<tags>family,every,copy,of,wrapper,offline,is,_free,software,but,is,also,_cat:personalized</tags> 
+</char> 
+<prop id="Evil Barney 1.jpg" name="Evil Barney 1" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="Evil Barney 2.jpg" name="Evil Barney 2" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="Evil Barney 3.jpg" name="Evil Barney 3" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="Evil Barney 4.png" name="Evil Barney 4" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="Angoa.png" name="Angoa" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="Charente.png" name="Charente" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="CNC.png" name="CNC" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="MEDIA.png" name="MEDIA" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="MTV.png" name="MTV" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="Nouvelle-Aquitaine.png" name="Nouvelle-Aquitaine" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="Procirep.png" name="Procirep" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="Backup Films.jpg" name="Backup Films" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="Cofinova.png" name="Cofinova" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="Ellipsanime.png" name="Ellipsanime" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="TF1.png" name="TF1" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="Wrapper Offline.png" name="Wrapper Offline" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="New Super Mario Bros. - Game Over.mp3" name="New Super Mario Bros. - Game Over" subtype="soundeffect" duration="3944" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="New Super Mario Bros. - Game Over.mp3" name="New Super Mario Bros. - Game Over" subtype="bgmusic" duration="3944" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="The Legend of Zelda - Ocarina of Time - Battle.mp3" name="The Legend of Zelda - Ocarina of Time - Battle" subtype="bgmusic" duration="126041" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="The Legend of Zelda - Ocarina of Time - Game Over.mp3" name="The Legend of Zelda - Ocarina of Time - Game Over" subtype="bgmusic" duration="9038" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="Animaniacs (SNES) - Stage Begin.mp3" name="Animaniacs (SNES) - Stage Begin" subtype="bgmusic" duration="6426" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="Cutie Suzuki no Ringside Angel - Title Screen.mp3" name="Cutie Suzuki no Ringside Angel - Title Screen" subtype="bgmusic" duration="162037" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="Devil's Roar Sound Effect.mp3" name="Devil's Roar Sound Effect" subtype="soundeffect" duration="3030" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+	<sound id="Link's Memories - The Silent Princess.mp3" name="Link's Memories - The Silent Princess" subtype="bgmusic" duration="67082" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
 
 </theme> 
